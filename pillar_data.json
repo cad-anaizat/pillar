@@ -1,0 +1,94 @@
+[
+  {
+    "Id": "d85b107e-3cf6-4de9-a621-a4760d0166a2",
+    "Name": "Body Care",
+    "Description": "Shower, brush teeth, basic hygiene",
+    "Category": "Core",
+    "IsActive": true,
+    "Completions": {
+      "2025-08-21": false
+    },
+    "IsCompletedToday": false
+  },
+  {
+    "Id": "d945ef97-a8f4-4680-a1fb-b0612fbd0f57",
+    "Name": "Fuel Up",
+    "Description": "Eat 2-3 meals, stay hydrated",
+    "Category": "Core",
+    "IsActive": true,
+    "Completions": {},
+    "IsCompletedToday": false
+  },
+  {
+    "Id": "9b0baf9f-bae2-4e0f-b881-4dcdfe2c65ea",
+    "Name": "Rest Well",
+    "Description": "Maintain sleep schedule, get quality rest",
+    "Category": "Core",
+    "IsActive": true,
+    "Completions": {},
+    "IsCompletedToday": false
+  },
+  {
+    "Id": "5de29cc0-e30b-45d3-a8e2-1c1d152a02ef",
+    "Name": "Move \u0026 Breathe",
+    "Description": "Go outside, walk, light movement",
+    "Category": "Core",
+    "IsActive": true,
+    "Completions": {},
+    "IsCompletedToday": false
+  },
+  {
+    "Id": "2c45d3d7-feb9-4f4f-9e69-a64ba5398723",
+    "Name": "Social Touchpoint",
+    "Description": "Reach out to friend/family (text, call, meet)",
+    "Category": "Connection",
+    "IsActive": true,
+    "Completions": {},
+    "IsCompletedToday": false
+  },
+  {
+    "Id": "4dd40410-530d-476c-ab5e-7476cf1060fb",
+    "Name": "Micro-Connection",
+    "Description": "Small gestures (smile, chat, online interaction)",
+    "Category": "Connection",
+    "IsActive": true,
+    "Completions": {},
+    "IsCompletedToday": false
+  },
+  {
+    "Id": "88f78f69-36eb-45c6-8d27-739a0549686f",
+    "Name": "Deep Bonding",
+    "Description": "Meaningful conversation or quality time",
+    "Category": "Connection",
+    "IsActive": true,
+    "Completions": {},
+    "IsCompletedToday": false
+  },
+  {
+    "Id": "900a1784-9c1b-4b8c-b056-638204b67903",
+    "Name": "Learn Something",
+    "Description": "Read, watch tutorial, practice new skill",
+    "Category": "Growth",
+    "IsActive": true,
+    "Completions": {},
+    "IsCompletedToday": false
+  },
+  {
+    "Id": "d2721f2a-9bc0-4a0e-b5f0-e8d2d139b504",
+    "Name": "Create \u0026 Build",
+    "Description": "Write, draw, code, cook - be generative",
+    "Category": "Growth",
+    "IsActive": true,
+    "Completions": {},
+    "IsCompletedToday": false
+  },
+  {
+    "Id": "f9e662fc-e1bf-4f55-b697-9fb779b62edd",
+    "Name": "Reflect \u0026 Plan",
+    "Description": "Journal, gratitude, mood check, planning",
+    "Category": "Growth",
+    "IsActive": true,
+    "Completions": {},
+    "IsCompletedToday": false
+  }
+]

@@ -1,0 +1,14 @@
+C:\Projects\Inspiration\Pillar\bin\Debug\net8.0\Pillar.exe
+C:\Projects\Inspiration\Pillar\bin\Debug\net8.0\Pillar.deps.json
+C:\Projects\Inspiration\Pillar\bin\Debug\net8.0\Pillar.runtimeconfig.json
+C:\Projects\Inspiration\Pillar\bin\Debug\net8.0\Pillar.dll
+C:\Projects\Inspiration\Pillar\bin\Debug\net8.0\Pillar.pdb
+C:\Projects\Inspiration\Pillar\obj\Debug\net8.0\Pillar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Inspiration\Pillar\obj\Debug\net8.0\Pillar.AssemblyInfoInputs.cache
+C:\Projects\Inspiration\Pillar\obj\Debug\net8.0\Pillar.AssemblyInfo.cs
+C:\Projects\Inspiration\Pillar\obj\Debug\net8.0\Pillar.csproj.CoreCompileInputs.cache
+C:\Projects\Inspiration\Pillar\obj\Debug\net8.0\Pillar.dll
+C:\Projects\Inspiration\Pillar\obj\Debug\net8.0\refint\Pillar.dll
+C:\Projects\Inspiration\Pillar\obj\Debug\net8.0\Pillar.pdb
+C:\Projects\Inspiration\Pillar\obj\Debug\net8.0\Pillar.genruntimeconfig.cache
+C:\Projects\Inspiration\Pillar\obj\Debug\net8.0\ref\Pillar.dll
