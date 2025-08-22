@@ -2,7 +2,7 @@
 # ⚡ Pillar – Life Anchors System  
 *A universal daily balance tracker built with C# and .NET 8.0: designed for simplicity, resilience, and growth.*  
 
-## 🏅 Badges  
+## 🏅 Tech Stack
 ![Skill](https://img.shields.io/badge/Skill%20Level-Intermediate-blue)  
 ![Difficulty](https://img.shields.io/badge/Difficulty-Low-green)  
 ![Time](https://img.shields.io/badge/Setup%20Time-5%20min-orange)  
